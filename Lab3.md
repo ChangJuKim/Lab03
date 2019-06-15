@@ -13,6 +13,10 @@ Current Branches:
   
   
   
+![Latex](https://github.com/Riantix/Lab03/blob/master/Latex.png)  
   
-[gitstats](https://github.com/Riantix/Lab03/blob/master/gitStats.png)
-[gource](https://github.com/Riantix/Lab03/blob/master/OrganizerGource.png)
+  
+![gitstats](https://github.com/Riantix/Lab03/blob/master/gitStats.png)
+
+
+![gource](https://github.com/Riantix/Lab03/blob/master/OrganizerGource.png)
